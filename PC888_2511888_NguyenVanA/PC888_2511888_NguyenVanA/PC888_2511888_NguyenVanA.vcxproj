@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4f2ee30e-fcef-4fc3-962e-f3bb37dee5ca}</ProjectGuid>
-    <RootNamespace>My2311888NguyenVanAPC888</RootNamespace>
+    <ProjectGuid>{7f87ee98-a155-4293-915c-93ccd577d4e3}</ProjectGuid>
+    <RootNamespace>PC8882511888NguyenVanA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,9 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2311888_NguyenVanA_PC888.cpp" />
+    <ClCompile Include="program.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="menu.h" />
     <ClInclude Include="thuvien.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
